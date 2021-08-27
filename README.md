@@ -1,7 +1,7 @@
 # GifsApp
-### Aplicacion de Gifs donde se utilizo el API de giphy.com
+### Gifs application where the giphy.com API was used
 
-## Se utilizo:
+## it was used:
 ```
 - Angular 12
 - Bootstrap 5
